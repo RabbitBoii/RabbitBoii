@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>hey, I'm Chetan 👋</h1>
+  <h1>Hey, I'm Chetan 👋</h1>
   <p>I build AI-powered fullstack apps — RAG pipelines, LLM integrations, and the interfaces around them.</p>
   <p>IIT Roorkee '26 · M.Sc. Mathematics & Computing · Based in India</p>
   <br/>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chetan-atram/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chetanatram11284@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
@@ -52,9 +52,9 @@ Fullstack project management platform where you describe a goal and Llama 3.3 ge
 
 **Backend:** FastAPI · Node.js · Express · tRPC · Prisma
 
-**AI / LLM:** LangChain · Groq · Ollama · Pinecone · ChromaDB · RAG Pipelines · Vector Embeddings
+**AI / LLM:** LangChain · Embeddings · Groq · Ollama · Pinecone · ChromaDB · RAG Pipelines 
 
-**Databases:** SQLite · MongoDB · Firebase
+**Databases:** PostgreSQL · SQLite · MongoDB · Firebase 
 
 **Tools:** Git · Vercel · Render
 
