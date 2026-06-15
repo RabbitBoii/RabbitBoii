@@ -21,7 +21,7 @@ Right now I'm focused on the intersection of LLMs and real products — not just
 
 ## 🚀 Featured Projects
 
-### [CoverCraft](YOUR_LIVE_LINK) — AI Cover Letter Generator
+### [CoverCraft](https://coverizer.vercel.app/) — AI Cover Letter Generator
 > React · FastAPI · Pinecone · Groq · SSE Streaming
 
 Built an AI-powered cover letter generator that does semantic search over your past applications to generate contextually relevant letters. Real-time streaming via SSE, dual-storage architecture with SQLite + Pinecone vector DB, deployed on Render + Vercel.
@@ -30,7 +30,7 @@ Built an AI-powered cover letter generator that does semantic search over your p
 
 ---
 
-### [Codebase Chat](YOUR_GITHUB_LINK) — Chat with your codebase in VS Code
+### [Codebase Chat](https://github.com/RabbitBoii/codebase-chat) — Chat with your codebase in VS Code
 > VS Code Extension · Ollama · Groq · Llama 3
 
 A VS Code extension that lets you query your entire local codebase in natural language. Built a RAG pipeline with local embedding generation (nomic-embed-text) and pure JS cosine similarity — no native dependencies, works completely offline for full code privacy.
@@ -39,7 +39,7 @@ A VS Code extension that lets you query your entire local codebase in natural la
 
 ---
 
-### [Habit AI](YOUR_LIVE_LINK) — AI Project Management
+### [Habit AI](https://habit-tracker-rabbitboii-42.vercel.app/) — AI Project Management
 > Next.js 14 · tRPC · TypeScript · Groq · Llama 3.3
 
 Fullstack project management platform where you describe a goal and Llama 3.3 generates a structured project plan with tasks. Kanban board with optimistic UI updates, progress visualizations, end-to-end typesafe with tRPC.
